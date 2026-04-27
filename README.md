@@ -3,9 +3,9 @@
 
 ## 📸 Capture Screens
 <p align="center">
-  <img src="screenshots/splash_screen.png.png" width="250" />
-  <img src="screenshots/home_screen.png.png" width="250" />
-  <img src="screenshots/booking_form.png.png" width="250" />
+  <img src="screenshots/splash_screen.png" width="250" />
+  <img src="screenshots/home_screen.png" width="250" />
+  <img src="screenshots/booking_form.png" width="250" />
 </p>
 
 ## ✨ Features
